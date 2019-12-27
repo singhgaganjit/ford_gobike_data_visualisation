@@ -1,7 +1,5 @@
 # Project : Ford Gobike data analysis from year 2017-2019
 
-# Project : Ford Gobike data analysis from year 2017-2019
-
 ## Table of Contents
 
 - [Introduction](#intro)
